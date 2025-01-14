@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Sharkoll611
-- 👀 I’m interested in - hacking
-- 🌱 I’m currently learning Ethical Hacking 
-- 💞️ I’m looking to collaborate on cloud computing
-- 📫 How to reach me whats-7068992055
+- 👋 Hi, I’m Ahmad
+- My python programming level is Associate, currently
+- 🌱 I’m currently studying cybersecurity
+- 📫 How to reach me: Gmail sharkolle611@gmail.com
 
 <!---
 Sharkoll611/Sharkoll611 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
